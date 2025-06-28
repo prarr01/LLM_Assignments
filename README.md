@@ -1,2 +1,2 @@
-# LLM_Assignments
-Assignments of LLM 7th Semester.
+# LLM-Assignment-7th-Semester
+This repository contains all the assignment assigned in LLM course KU AICL434
